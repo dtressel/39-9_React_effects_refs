@@ -1,0 +1,10 @@
+.Table-card-pile {
+  position: relative;
+  width: 226px;
+}
+
+.Table-button-div, .Table-card-pile-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 55px;
+}
